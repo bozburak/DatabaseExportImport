@@ -1,4 +1,4 @@
-English Description
+<b>English Description</b></br></br>
 This script automates the process of exporting databases from an Azure SQL server, dropping them from a local SQL server, and then importing them back into the local server. It uses SqlPackage.exe for the export and import operations and System.Data.SqlClient for database management.
 
 Configuration: Set up server names, login credentials, and paths.
@@ -9,7 +9,7 @@ Drop Local Databases: Remove the databases from the local server if they exist.
 Import Databases: Import the .bacpac files back into the local server.
 
 
-Türkçe Açıklama
+<b>Türkçe Açıklama</b></br></br>
 Bu betik, Azure SQL sunucusundan veritabanlarını dışa aktarma, yerel SQL sunucusundan silme ve ardından yerel sunucuya geri aktarma işlemlerini otomatikleştirir. Dışa ve içe aktarma işlemleri için SqlPackage.exe ve veritabanı yönetimi için System.Data.SqlClient kullanır.
 
 Yapılandırma: Sunucu adlarını, giriş bilgilerini ve yolları ayarla.
